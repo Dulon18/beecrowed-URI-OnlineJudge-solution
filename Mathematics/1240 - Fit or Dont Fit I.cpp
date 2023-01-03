@@ -14,7 +14,9 @@ int fitOrNot(long long num)
     
     return digits;
 }
+
 int main()
+    
 {
      int n;
     long long x, y,m, z ;
