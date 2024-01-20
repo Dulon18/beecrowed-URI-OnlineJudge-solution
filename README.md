@@ -1,4 +1,4 @@
-# beecrowed-URI-OnlineJudge-solution
+# beecrowed URI OnlineJudge Solution
 URI problem Solution
 
 
